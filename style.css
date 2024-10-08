@@ -32,13 +32,14 @@ nav ul li{
 
 p{
 	font-size: large;
+	text-align: justify!important;
 }
 .nav-link{
 	font-weight: 500;
 }
 
 .btn:active {
-    box-shadow: 2px 2px 5px #f7c705;
+    box-shadow: 0px 0px 2px 2px #f7c705;
     transform: scale(0.95); /* Efecto de presión */
 }
 
